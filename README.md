@@ -17,6 +17,37 @@ I wanted to make Bloc something of an all-in-one app,  so I also used Axios to l
 
 ## To get Started
 
+
+### In the client folder, you'll need the following environment variables:
+
+```
+REACT_APP_RAPIDAPI_KEY
+REACT_APP_CRYPTO_API_URL
+REACT_APP_CRYPTO_RAPIDAPI_HOST
+```
+
+You'll need a RapidAPI account, with an active sub to the CoinAPI API(free).
+
+##In the server folder, you'll need the follwing environment variables:
+
+```
+CLOUD_NAME
+API_KEY
+API_SECRET
+```
+
+Put your Cloudinary API credentials in and you're good to go.
+
+In the server folder, spin up the backend:
+
+```
+npm install
+
+npm start
+```
+
+
+then, in the client, start up the frontend:
 ```
 npm install
 
