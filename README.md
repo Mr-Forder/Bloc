@@ -28,7 +28,7 @@ REACT_APP_CRYPTO_RAPIDAPI_HOST
 
 You'll need a RapidAPI account, with an active sub to the CoinAPI API(free).
 
-##In the server folder, you'll need the follwing environment variables:
+### In the server folder, you'll need the following environment variables:
 
 ```
 CLOUD_NAME
